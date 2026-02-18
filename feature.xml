@@ -2,15 +2,15 @@
 <feature
       id="ch.so.agi.dbeaver.ai.feature"
       label="AI Chat"
-      version="0.1.0.qualifier"
-      provider-name="Amt fuer Geoinformation (Kanton Solothurn)">
+      version="0.1.1.qualifier"
+      provider-name="Amt für Geoinformation (Kanton Solothurn)">
 
    <description>
       AI chat integration for DBeaver.
    </description>
 
    <copyright url="https://agi.so.ch/">
-      Amt fuer Geoinformation / Kanton Solothurn
+      Amt für Geoinformation / Kanton Solothurn
    </copyright>
 
    <license url="https://github.com/edigonzales/dbeaver-ai-plugin/blob/main/LICENSE">
