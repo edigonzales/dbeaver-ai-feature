@@ -2,7 +2,7 @@
 <feature
       id="ch.so.agi.dbeaver.ai.feature"
       label="AI Chat"
-      version="0.1.1.qualifier"
+      version="0.1.2.qualifier"
       provider-name="Amt für Geoinformation (Kanton Solothurn)">
 
    <description>
